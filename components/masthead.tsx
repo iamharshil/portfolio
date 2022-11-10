@@ -27,7 +27,7 @@ const Masthead: React.FC = () => {
           <span>Node Developer.</span>
         </h2>
       </div>
-      <div className="">
+      <div className="flex-grow-0 pb-20 md:pb-10 transition-all duration-1000">
         <Image
           src="/assets/arrow-down.png"
           width={188 / 3}
