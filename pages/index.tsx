@@ -4,6 +4,12 @@ import AboutUs from "../components/aboutus";
 import Masthead from "../components/masthead";
 import Skills from "../components/skills";
 
+export async function getStaticProps() {
+  return {
+    props: {}
+  }
+}
+
 const Home: NextPage = () => {
   return (
     <div>

@@ -20,7 +20,7 @@ const Member: React.FC<Props> = ({ id, name, socialId, link }) => (
     <div className="text-2xl xl:text-3xl">{name}</div>
     <div className="text-xl">
       <Link href={link}>
-        <a target="_blank">{socialId}</a>
+        <a href="">{socialId}</a>
       </Link>
     </div>
   </div>
