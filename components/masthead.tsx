@@ -59,9 +59,9 @@ const Masthead: React.FC = () => {
       >
         <Image
           src="/assets/arrow-down.png"
-          width={188 / 3}
-          height={105 / 3}
-          alt="arrow-down"
+          width={128 / 3}
+          height={114 / 3}
+          alt="scroll down"
           onLoad={handleImageLoaded}
         />
       </div>
