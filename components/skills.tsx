@@ -8,9 +8,10 @@ const Skills: React.FC = () => {
 				<div className="leading-[1.15]">
 					<div>Skills</div>
 					<span>
-						I have created Express.js CLI tool to get boilerplate Express.JS
-						code with Javascript or Typescript including database connection and
-						it is available on npmjs.com
+						I&apos;ve developed a command-line interface (CLI) tool for
+						Express.js that generates boilerplate code. This tool can create
+						code in either JavaScript or TypeScript and includes a database
+						connection setup. It&apos;s available for download on npmjs.com.
 					</span>
 				</div>
 			</div>
